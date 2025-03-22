@@ -2,8 +2,6 @@
 
 This is a Cypress HR project for automated testing. It includes all the necessary dependencies and configurations to get started with Cypress.
 
-## Prerequisites
-
 cypress_hr/
 ├── e2e/                  # End-to-end test files
 │   └── AddDeleteEmployee.cy.js   
@@ -18,6 +16,8 @@ cypress_hr/
 ├── package-lock.json         # Locks dependency versions
 ├── README.md                 # Project documentation
 └── cypress.config.js         # Cypress configuration file
+
+## Prerequisites
 
 Before you begin, ensure you have the following installed:
 
