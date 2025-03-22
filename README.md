@@ -5,19 +5,19 @@ This is a Cypress HR project for automated testing. It includes all the necessar
 ## Project Structure
 
 cypress_hr/
-├── e2e/                  # End-to-end test files
-│   └── AddDeleteEmployee.cy.js   
-│   └── job.cy.js
-│   └── myInfo.cy.js
+├── e2e
+│   ├── AddDeleteEmployee.cy.js
+│   ├── job.cy.js
+│   ├── myInfo.cy.js
 │   └── all.cy.js
-├── fixtures/             # Test data files
-│   └── profilepic.jpg
+├── fixtures
+│   ├── profilepic.jpg
 │   └── sampleCV.docx
-├── node_modules/             # Dependencies (ignored by Git)
-├── package.json              # Lists dependencies and scripts
-├── package-lock.json         # Locks dependency versions
-├── README.md                 # Project documentation
-└── cypress.config.js         # Cypress configuration file
+├── node_modules
+├── package.json
+├── package-lock.json
+├── README.md
+└── cypress.config.js
 
 ## Prerequisites
 
