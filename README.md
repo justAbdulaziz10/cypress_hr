@@ -2,6 +2,8 @@
 
 This is a Cypress HR project for automated testing. It includes all the necessary dependencies and configurations to get started with Cypress.
 
+## Project Structure
+
 cypress_hr/
 ├── e2e/                  # End-to-end test files
 │   └── AddDeleteEmployee.cy.js   
