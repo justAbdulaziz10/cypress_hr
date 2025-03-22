@@ -4,6 +4,21 @@ This is a Cypress HR project for automated testing. It includes all the necessar
 
 ## Prerequisites
 
+cypress_hr/
+├── e2e/                  # End-to-end test files
+│   └── AddDeleteEmployee.cy.js   
+│   └── job.cy.js
+│   └── myInfo.cy.js
+│   └── all.cy.js
+├── fixtures/             # Test data files
+│   └── profilepic.jpg
+│   └── sampleCV.docx
+├── node_modules/             # Dependencies (ignored by Git)
+├── package.json              # Lists dependencies and scripts
+├── package-lock.json         # Locks dependency versions
+├── README.md                 # Project documentation
+└── cypress.config.js         # Cypress configuration file
+
 Before you begin, ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (version 16 or higher)
