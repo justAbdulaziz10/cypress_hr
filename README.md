@@ -2,22 +2,22 @@
 
 This is a Cypress HR project for automated testing. It includes all the necessary dependencies and configurations to get started with Cypress.
 
-## Project Structure
-
-cypress_hr/
-├── e2e
-│   ├── AddDeleteEmployee.cy.js
-│   ├── job.cy.js
-│   ├── myInfo.cy.js
-│   └── all.cy.js
-├── fixtures
-│   ├── profilepic.jpg
-│   └── sampleCV.docx
-├── node_modules
-├── package.json
-├── package-lock.json
-├── README.md
-└── cypress.config.js
+1. **Project Structure**:
+   ```bash
+   cypress_hr/
+   ├── e2e
+   │   ├── AddDeleteEmployee.cy.js
+   │   ├── job.cy.js
+   │   ├── myInfo.cy.js
+   │   └── all.cy.js
+   ├── fixtures
+   │   ├── profilepic.jpg
+   │   └── sampleCV.docx
+   ├── node_modules
+   ├── package.json
+   ├── package-lock.json
+   ├── README.md
+   └── cypress.config.js
 
 ## Prerequisites
 
